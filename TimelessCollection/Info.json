@@ -1,0 +1,11 @@
+﻿{
+  "AssemblyName": "TimelessCollection.dll",
+  "Author": "TimelessKeeper",
+  "DisplayName": "Timeless Collection of Addons",
+  "EntryMethod": "TimelessCollection.Main.Load",
+  "GameVersion": "1.1.1k",
+  "Id": "TimelessCollection",
+  "ManagerVersion": "0.23.0",
+  "Requirements": [],
+  "Version": "1.0.0"
+}
